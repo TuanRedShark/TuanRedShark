@@ -15,3 +15,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TuanRedShark&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+
+  ![Thank you](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=45A1FF&center=true&width=550&lines=Thank+you+for+visiting+my+GitHub+profile+%F0%9F%92%99)
+</div>
