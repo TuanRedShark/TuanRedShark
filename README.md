@@ -18,5 +18,5 @@
 
 <div align="center">
 
-  ![Thank you](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=45A1FF&center=true&width=550&lines=Thank+you+for+visiting+my+GitHub+profile+%F0%9F%92%99)
+  ![Thank you](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&color=45A1FF&center=true&width=550&lines=Thank+you+for+visiting+my+GitHub+profile)
 </div>
