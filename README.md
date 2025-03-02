@@ -9,13 +9,16 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://facebook.com/himarswc" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="TuanRedShark-facebook" />
   </a>
   <a href="https://instagram.com/tuanredshark/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="TuanRedShark-instagram" />
   </a>
   <a href="https://youtube.com/@TuanRedShark" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="TuanRedShark-youtube" />
+  </a>
+  <a href="https://youtube.com/@TuanRedShark" target="blank">
+    <img src="https://img.icons8.com/?size=100&id=HtQAciyY7o1f&format=png&color=000000" alt="TuanRedShark-zalo" />
   </a>
 </div>
 <br>
