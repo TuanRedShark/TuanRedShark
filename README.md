@@ -14,6 +14,9 @@
   <a href="https://instagram.com/tuanredshark/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
   </a>
+  <a href="https://youtube.com/@TuanRedShark" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  </a>
 </div>
 <br>
 
