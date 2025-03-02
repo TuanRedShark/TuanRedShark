@@ -20,6 +20,9 @@
   <a href="https://youtube.com/@TuanRedShark" target="blank">
     <img src="https://img.icons8.com/?size=100&id=HtQAciyY7o1f&format=png&color=000000" alt="TuanRedShark-zalo" />
   </a>
+  <a href="redshark.tuannguyen08@gmail.com" target="blank">
+    <img src="https://img.icons8.com/?size=100&id=110231&format=png&color=000000" alt="TuanRedShark-gmail" />
+  </a>
 </div>
 <br>
 
