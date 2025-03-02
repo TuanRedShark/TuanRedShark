@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img width="25px" alt="Hello" src="https://camo.githubusercontent.com/2ec030bc751ce444be25f6ed5aa026d2a0950d5cc62603faa27f4ec72f1e7ac3/68747470733a2f2f782e747739332e66756e2f696d616765732f68692e676966">
+  Hello! I'm Tuan
+</h1>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/himarswc) 
